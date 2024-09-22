@@ -1,0 +1,26 @@
+body{
+    background-image:linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0) )
+    
+}
+
+.boton a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+    padding: 05%;
+   
+}
+.texto{
+    display: flex;
+    font-size: 12px;
+    justify-content: center;
+}
+.texto p{
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(255, 250, 243);
+    white-space: pre-wrap;
+}
